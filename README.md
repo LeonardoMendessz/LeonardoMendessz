@@ -1,16 +1,31 @@
-## Hi there 👋
+👨🏻‍💻 Leonardo Mendes
+Desenvolvedor Back-End em Formação
 
-<!--
-**LeonardoMendessz/LeonardoMendessz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Leonardo Mendes Neves, tenho 26 anos, sou de Salvador-BA e atualmente curso Ciências da Computação na Uniruy - Wyden.
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e estou em constante evolução, buscando aprender e encarar novos desafios no mundo da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e Conhecimentos que já estudei:
+HTML (básico)
+
+CSS (básico)
+
+JavaScript (básico)
+
+Java (Fundamentos e Programação Orientada a Objetos - POO)
+
+MySQL (banco de dados relacional)
+
+Lógica de Programação
+
+🎯 Objetivo atual:
+Atualmente, estou focado em aprofundar meus conhecimentos em Java, Banco de Dados, e desenvolvimento back-end, além de melhorar minhas habilidades com JavaScript e front-end básico.
+
+📚 Em aprendizado constante!
+Sempre busco novos desafios, projetos e oportunidades para colocar em prática o que venho estudando.
+
+📫 Contato:
+
+Email: fs_mendes2@hotmail.com
+
+Localização: Salvador-BA
